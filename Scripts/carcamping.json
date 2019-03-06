@@ -1,0 +1,24 @@
+{
+    "carcamping": [
+        "car",
+        "map",
+        "music",
+        "cooler"
+    ],
+    
+    "bikecamping": [
+        "bike",
+        "helmet",
+        "bikelight",
+        "flat tire kit",
+        "allen wrenches"
+    ],
+    
+    "backpacking": [
+        "backpack",
+        "map",
+        "compass",
+        "hiking shoes",
+        "socks!"
+    ]
+}
